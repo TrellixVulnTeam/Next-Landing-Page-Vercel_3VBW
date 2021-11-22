@@ -65,7 +65,7 @@ function team() {
        <img
         onClick={openModal}
         className='cursor-pointer w-1/2 md:w-1/2 matt-head pb-4'
-        src='/Matt.webp'
+        src='/matt.webp'
         alt=''
        />
        <ScrollAnimation
